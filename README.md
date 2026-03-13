@@ -12,6 +12,9 @@ This repository contains the code and example notebooks for using BISTRO.
 
 Many traditional forecasting approaches require a different model for each variable. BISTRO provides a **low-cost and flexible tool** for baseline forecasts and conditional scenarios.
 
+### Intro video
+[Watch the BISTRO introduction video](./bistro_intro.mp4)
+
 ### Key Capabilities
 - **Unconditional forecasting**: Produces baseline forecasts for key aggregates (e.g., inflation).
 - **Conditional scenarios**: Lets you fix future paths of variables (e.g., oil prices, exchange rates) to explore alternative scenarios.
